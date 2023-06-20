@@ -8,7 +8,7 @@
 <li> In here you can find some astronomy projects, math projects and more!</li> 
 <br>
 <hr>
-<a style="text-align:center;"; href="https://www.instagram.com/cyberft3/">
+<a style="text-align:center;"; href="https://www.instagram.com/code.with.ad/">
    <img src="https://github.com/Cyberft-pdf/images/blob/main/Instagram-Icon.png" alt="HTML tutorial" style="width:48px;height:48px;">
 </a>
 <br>
