@@ -1,6 +1,8 @@
 <a href="">
    <img src="https://github.com/Cyberft-pdf/images/blob/main/nadpis1.png" alt="title 1" style="width:25%;height:25%;">
 </a>
+<p><br></p>
+
 <p>-  I'm <strong>16 years old programmer</strong>, who is trying do some good with their projekts:)</p>
 <p>-  I'm learning Python (mostly backend stuff) and game development or some neural networks</p>
 <p>-  I'm also learning HTML, CSS</p>
