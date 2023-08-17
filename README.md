@@ -4,9 +4,9 @@
 <p><br></p>
 
 <p>-  I'm <strong>16 years old programmer</strong>, who is trying do some good with their projekts:)</p>
-<p>-  I'm learning Python (mostly backend stuff) and game development or some neural networks</p>
-<p>-  I'm also learning HTML, CSS</p>
-<p>-  Now trying some C++ on arduino, I love IoT stuff</p>
+<p>-  I'm learning Python (mostly science stuff) I love data >:)</p>
+<p>-  I'm also learning web development</p>
+<p>-  Now trying some C#</p>
 <br>
 <p>-  In here you can find some astronomy projects, math projects and more!</p>
 <br>
