@@ -11,8 +11,13 @@
 <p>-  In here you can find some astronomy projects, math projects and more!</p>
 <br>
 <hr>
-<a style="text-align:center;"; href="https://www.instagram.com/code.with.ad/">
+<a  href="https://www.instagram.com/code.with.ad/">
    <img src="https://github.com/Cyberft-pdf/images/blob/main/instagram_github.png" alt="Instagram logo" style="width:18%;height:18%;">
 </a>
-<br>
+
+<a href="https://www.youtube.com/@AdCoded">
+   <img src="https://github.com/Cyberft-pdf/images/blob/main/youtube-logo-github.png" alt="Instagram logo" style="width:19%;height:19%;">
+</a>
+
+
 
