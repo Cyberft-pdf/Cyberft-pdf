@@ -11,7 +11,7 @@
 <br>
 <hr>
 
-<p align='center'>
+<!----p align='center'>
    My knowledge<br/><br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 
-</p>
+<!----/p>
 <!----<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyberft-pdf1212%2Fhit-counter" />
 
 
