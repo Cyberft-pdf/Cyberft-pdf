@@ -3,7 +3,7 @@
 </a>
 <p><br></p>
 
-<p>-  I'm <strong>16 years old programmer</strong>, who is trying do some good with their projects:)</p>
+<p>-  I'm <strong>17 years old programmer</strong>, who is trying do some good with their projects:)</p>
 <p>-  I'm learning Python (mostly science stuff) I love data >:)</p>
 <p>-  Now learning about security of Autonomous Space Systems</p>
 <br>
