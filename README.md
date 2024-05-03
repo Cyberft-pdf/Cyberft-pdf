@@ -3,8 +3,8 @@
 </a>
 <p><br></p>
 
-<p>-  I'm <strong>17 years old programmer</strong>, who is trying do some good with their projects:)</p>
-<p>-  I'm learning Python (mostly science stuff) I love data >:)</p>
+<p>-  I'm <strong>17 years old programmer</strong></p>
+<p>-  I'm learning networks, programming </p>
 <p>-  Now learning about security of autonomous space systems</p>
 <br>
 <p>-  In here you can find some astronomy, math projects and more!</p>
