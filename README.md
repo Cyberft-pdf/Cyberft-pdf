@@ -1,15 +1,85 @@
-<a align='center'>
-   <img src="https://github.com/Cyberft-pdf/images/blob/main/nadpis1.png" alt="title 1" style="width:25%;height:25%;">
-</a>
-<p><br></p>
+<br>
 
-<p>-  I'm <strong>17 years old programmer</strong></p>
-<p>-  I'm learning networks, programming(astronomy, medicine) </p>
-<p>-  Now learning about security of autonomous space systems</p>
+![Header Image](https://github.com/Cyberft-pdf/images/blob/main/nadpis1.png)  
+
 <br>
-<p>-  In here you can find some astronomy, math projects and more!</p>
+Welcome to my GitHub profile! I'm Cyberft, a passionate software developer and neworker. Here you'll find my projects, ideas, and contributions to the open-source community.
+
+---
+### 🌐 Explore My Work
 <br>
-<hr>
+Click the button below to explore my repositories interactively:
+
+[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername?tab=repositories)
+
+
+Feel free to dive into my repositories, connect with me, or explore my favorite tools and achievements below. Let's build something amazing together! 🚀
+
+---
+
+## 📈 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&theme=radical)
+
+### 🏅 Profile Highlights
+
+- **Contributions**: Actively contributing to open-source projects to help the community grow.
+- **Collaboration**: Working with developers worldwide to create innovative solutions.
+- **Learning**: Constantly exploring new technologies and methodologies to enhance my skills.
+
+---
+
+## 🛠️ Technologies & Tools
+
+| Technology     | Tools          |
+|----------------|----------------|
+| Python         |   |
+| C#     |  |
+| C++    |    |
+| web development    |    |
+| kotlin, GO   |    |
+| assembly  |    |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 1 place and 2 place web development hackathon, 88/8000 in cybersecurity competition
+- 📜 Certifications: CCNA, Harvard Pyhon, Cisco
+- 💻 Open-Source Contributions
+
+---
+
+
+
+## 🌍 Connect With Me
+
+- 💼 [LinkedIn]()
+- 🐦 [Twitter]()
+- ✉️ Email: 
+
+---
+
+## ⭐ Support Me
+
+If you enjoy my work, don't forget to give a ⭐ to my repositories or follow me on GitHub!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!----p align='center'>
    My knowledge<br/><br/>
