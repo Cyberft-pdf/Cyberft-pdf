@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm Cyberft, a passionate software developer and n
 <br>
 Click the button below to explore my repositories interactively:
 
-[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/YourUsername?tab=repositories)
+[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/Cyberft-pdf?tab=repositories)
 
 
 Feel free to dive into my repositories, connect with me, or explore my favorite tools and achievements below. Let's build something amazing together! 🚀
@@ -36,7 +36,7 @@ Feel free to dive into my repositories, connect with me, or explore my favorite 
 | Python         |   |
 | C#     |  |
 | C++    |    |
-| web development    |    |
+| HTML,CSS, JavaScript    |    |
 | kotlin, GO   |    |
 | assembly  |    |
 
@@ -44,8 +44,8 @@ Feel free to dive into my repositories, connect with me, or explore my favorite 
 
 ## 🏆 Achievements
 
-- 🥇 1 place and 2 place web development hackathon, 88/8000 in cybersecurity competition
-- 📜 Certifications: CCNA, Harvard Pyhon, Cisco
+- 🥇 1 place and 2 place web development hackathon, 88/8000 in cybersecurity competition, 3 place medical hackathon and much more!
+- 📜 Certifications: CCNA 1-2, Harvard´s Pyhon and AI, TryHackMe 
 - 💻 Open-Source Contributions
 
 ---
