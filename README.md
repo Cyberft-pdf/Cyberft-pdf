@@ -1,6 +1,6 @@
 <br>
 
-![Header Image](https://github.com/Cyberft-pdf/images/blob/main/nadpis1.png)  
+
 
 <br>
 Welcome to my GitHub profile! I'm Cyberft, a passionate software developer and neworker. Here you'll find my projects, ideas, and contributions to the open-source community.
