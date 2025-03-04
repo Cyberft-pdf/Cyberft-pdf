@@ -37,7 +37,7 @@ Feel free to dive into my repositories, connect with me, or explore my favorite 
 | C#     |  |
 | C++    |    |
 | HTML,CSS, JavaScript    |    |
-| kotlin, GO   |    |
+|    |    |
 | assembly  |    |
 
 ---
