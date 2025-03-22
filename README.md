@@ -3,19 +3,18 @@
 
 
 <br>
-<h3>Welcome to my GitHub profile! </h3>
+<h1>Welcome to my GitHub profile! </h1>
 <br>
-I'm Cyberft, a passionate software developer and neworker. Here you'll find my projects, ideas, and contributions to the open-source community
+I'm Cyberft, a passionate software developer and neworker. I’m currently expanding my knowledge in cybersecurity.
+I develop cybersecurity tools, but I also have a passion
+for cosmonautics, neural networks,
+and much more!
 
 ---
 ### 🌐 Explore My Work
 <br>
-Click the button below to explore my repositories interactively:
-
-[![Explore Repositories](https://img.shields.io/badge/Explore-My%20Repositories-blue?style=for-the-badge&logo=github)](https://github.com/Cyberft-pdf?tab=repositories)
 
 
-Feel free to dive into my repositories, connect with me, or explore my favorite tools and achievements below. Let's build something amazing together! 🚀
 
 ---
 
