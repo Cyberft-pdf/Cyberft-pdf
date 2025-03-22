@@ -1,20 +1,22 @@
-<br>
 
 
 
-<br>
-<h1>Welcome to my GitHub profile! </h1>
-<br>
-I'm Cyberft, a passionate software developer and neworker. I’m currently expanding my knowledge in cybersecurity.
-I develop cybersecurity tools, but I also have a passion
-for cosmonautics, neural networks,
-and much more!
 
----
+<img src="https://github.com/Cyberft-pdf/images/blob/main/Bez%20n%C3%A1zvu-3.png" />
+
+### 📍 About me
+
+<p>I’m currently expanding my knowledge in cybersecurity and networks. 
+I develop cybersecurity tools, but I also have a passion for cosmonautics, neural networks, and much more!</p>
+
+
 ### 🌐 Explore My Work
-<br>
 
-
+SIEM - <br>
+HiProcess - <br>
+PortSkaner -<br>
+Recognizer - <br>
+PlanetSimulation -<br>
 
 ---
 
@@ -30,16 +32,7 @@ and much more!
 
 ---
 
-## 🛠️ Technologies & Tools
 
-| Technology     | Tools          |
-|----------------|----------------|
-| Python         |   |
-| C#     |  |
-| C++    |    |
-| HTML,CSS, JavaScript    |    |
-|    |    |
-| assembly  |    |
 
 ---
 
@@ -52,18 +45,9 @@ and much more!
 ---
 
 
-
-## 🌍 Connect With Me
-
-- 💼 [LinkedIn]()
-- 🐦 [Twitter]()
-- ✉️ Email: 
-
 ---
 
-## ⭐ Support Me
 
-If you enjoy my work, don't forget to give a ⭐ to my repositories or follow me on GitHub!
 
 
 
@@ -83,6 +67,12 @@ If you enjoy my work, don't forget to give a ⭐ to my repositories or follow me
 
 
 <!----p align='center'>
+<br>
+<h3>Welcome to my GitHub profile! </h3>
+<br>
+I'm Cyberft, a passionate software developer and neworker. Here you'll find my projects, ideas, and contributions to the open-source community
+
+
    My knowledge<br/><br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -96,6 +86,7 @@ If you enjoy my work, don't forget to give a ⭐ to my repositories or follow me
 
 <!----/p>
 <!----<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCyberft-pdf1212%2Fhit-counter" />
+
 
 
 
