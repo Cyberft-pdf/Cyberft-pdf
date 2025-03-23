@@ -4,19 +4,22 @@
 
 <img src="https://github.com/Cyberft-pdf/images/blob/main/Bez%20n%C3%A1zvu-3.png" />
 
-### 📍 About me
+<div align="center">
 
-<p>I’m currently expanding my knowledge in cybersecurity and networks. 
+### 📍 About Me
+
+<p>I’m currently expanding my knowledge in cybersecurity and networks. <br>
 I develop cybersecurity tools, but I also have a passion for cosmonautics, neural networks, and much more!</p>
 
+---
 
 ### 🌐 Explore My Work
 
-SIEM - <br>
-HiProcess - <br>
-PortSkaner -<br>
-Recognizer - <br>
-PlanetSimulation -<br>
+**SIEM** - <br>
+**HiProcess** - <br>
+**PortSkaner** -<br>
+**Recognizer** - <br>
+**PlanetSimulation** -<br>
 
 ---
 
@@ -24,33 +27,25 @@ PlanetSimulation -<br>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&theme=radical)
 
-### 🏅 Profile Highlights
-
-- **Contributions**: Actively contributing to open-source projects to help the community grow.
-- **Collaboration**: Working with developers worldwide to create innovative solutions.
-- **Learning**: Constantly exploring new technologies and methodologies to enhance my skills.
-
 ---
 
+### 🏅 Profile Highlights
 
+**Contributions**: Actively contributing to open-source projects to help the community grow.<br>
+**Collaboration**: Working with developers worldwide to create innovative solutions.<br>
+**Learning**: Constantly exploring new technologies and methodologies to enhance my skills.<br>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 1 place and 2 place web development hackathon, 88/8000 in cybersecurity competition, 3 place medical hackathon and much more!
-- 📜 Certifications: CCNA 1-2, Harvard´s Pyhon and AI, TryHackMe 
-- 💻 Open-Source Contributions
+🥇 **1st place & 2nd place** in web development hackathons<br>
+🏆 **88th / 8000** in a cybersecurity competition<br>
+🥉 **3rd place** in a medical hackathon and much more!<br>
+📜 **Certifications**: CCNA 1-2, Harvard’s Python and AI, TryHackMe<br>
+💻 **Open-Source Contributions**<br>
 
----
-
-
----
-
-
-
-
-
+</div>
 
 
 
