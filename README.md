@@ -62,7 +62,6 @@ I develop cybersecurity tools, but I also have a passion for cosmonautics, neura
 
 
 <!----p align='center'>
-<br>
 <h3>Welcome to my GitHub profile! </h3>
 <br>
 I'm Cyberft, a passionate software developer and neworker. Here you'll find my projects, ideas, and contributions to the open-source community
