@@ -15,11 +15,11 @@ I develop cybersecurity tools, but I also have a passion for cosmonautics, neura
 
 ### 🌐 Explore My Work
 
-**SIEM** <br>
+**Steinsec OS** <br>
 **HiProcess**  <br>
 **PortSkaner** <br>
 **Recognizer**  <br>
-**PlanetSimulation** -<br>
+**NetworkViz** -<br>
 
 ---
 
