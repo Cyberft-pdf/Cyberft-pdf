@@ -41,6 +41,7 @@ I develop cybersecurity tools, but I also have a passion for cosmonautics, neura
 
 🥇 **1st place & 2nd place** in web development hackathons<br>
 🏆 **88th / 8000** in a cybersecurity competition<br>
+🏆 **56th / 10000** in a cybersecurity competition<br>
 🥉 **3rd place** in a medical hackathon and much more!<br>
 📜 **Certifications**: CCNA 1-2, Harvard’s Python and AI, TryHackMe<br>
 💻 **Open-Source Contributions**<br>
