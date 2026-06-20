@@ -1,4 +1,3 @@
-<img src="https://github.com/Cyberft-pdf/images/blob/main/Bez%20n%C3%A1zvu-3.png" width="100%" />
 
 <div align="center">
 
