@@ -10,7 +10,8 @@
 
 </div>
 
----
+
+<div align="center">
 
 I map networks the way astronomers map stars —  
 every open port is a signal from the dark,  
@@ -18,6 +19,7 @@ every packet a transmission crossing the void.
 
 I build tools that run in silence and watch in depth.  
 When the network sleeps, I'm still listening.
+</div>
 
 ---
 
@@ -49,7 +51,7 @@ When the network sleeps, I'm still listening.
 | **HiProcess** | Process monitor & behavioral analyzer |
 | **Recognizer** | Pattern & anomaly detection |
 
----
+
 
 ### ✦ &nbsp; Achievements &nbsp; ✦
 
