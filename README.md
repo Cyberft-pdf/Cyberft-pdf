@@ -1,88 +1,134 @@
+<div align="center">
+
+<img src="https://github.com/Cyberft-pdf/images/blob/main/Bez%20n%C3%A1zvu-3.png" width="100%" />
+
+<br/>
+
+```
+  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗████████╗
+ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
+ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝█████╗     ██║   
+ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══╝     ██║   
+ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║        ██║   
+  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝        ╚═╝   
+```
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=700&lines=Scanning+the+network...+%5B████████████+100%25%5D;Signal+detected+at+%3A%3A1+%E2%80%94+deep+space+port+443;Packet+loss%3A+0.00%25+%7C+Routing+through+dark+matter;Unauthorized+access%3F+No.+I+built+the+firewall.;ssh+cyberft%40universe.net+-p+22+...+Connected." alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Network+Engineer;CTF+Player+%7C+Tool+Developer;Always+learning%2C+always+hacking." alt="Typing SVG" />
-</a>
+### `> whoami`
 
+</div>
 
-### About Me
+```
+Name    : Cyberft
+Focus   : Cybersecurity · Networks · Datacenters
+Location: Between packets and stars
+Status  : [ ONLINE ] — always scanning, always learning
+```
 
-I'm **Cyberft** — a developer and network engineer diving deep into cybersecurity, offensive tooling, and network infrastructure.  
-I build tools that actually matter: from port scanners to OS-level security projects.  
-Alongside security, I'm passionate about cosmonautics, neural networks, and pushing boundaries.
+I live at the intersection of **network infrastructure** and **offensive security**.  
+My tools run in terminals. My mind runs in packets.  
+When I'm not auditing networks or building security tools — I'm thinking about datacenters floating in orbit and neural networks trained on the unknown.
 
 ---
 
-### Tech Stack
+<div align="center">
+
+### `> ls /skills`
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FFD43B)
+![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=c-sharp&logoColor=239120)
+![Go](https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
 
-**Security & Networking**
+**Security & Networks**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kali-linux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge&logo=burp-suite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=6E40C9)
+![Cisco](https://img.shields.io/badge/Cisco-0a0a0a?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+</div>
 
 ---
 
-### Projects
+<div align="center">
 
-| Project | Description |
-|---|---|
-| **Steinsec OS** | Custom security-focused operating system |
-| **PortSkaner** | Fast port scanning & service detection tool |
-| **NetworkViz** | Network topology visualization |
-| **HiProcess** | Process monitoring & analysis utility |
-| **Recognizer** | Pattern recognition / detection tool |
+### `> cat /projects`
 
+</div>
 
-### Achievements
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  PROJECT          TYPE              STATUS                       │
+├─────────────────────────────────────────────────────────────────┤
+│  Steinsec OS      Security OS       [ ACTIVE ]                   │
+│  PortSkaner       Network Scanner   [ ACTIVE ]                   │
+│  NetworkViz       Topology Mapping  [ ACTIVE ]                   │
+│  HiProcess        Process Monitor   [ ACTIVE ]                   │
+│  Recognizer       Pattern Detector  [ ACTIVE ]                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `> grep -r "achievements" /career`
 
 | | |
-|---|---|
-| 🥇 **1st place** | Web development hackathon |
-| 🥈 **2nd place** | Web development hackathon |
-| 🏆 **88 / 8 000** | Cybersecurity competition |
-| 🏆 **56 / 10 000** | Cybersecurity competition |
+|:---|:---|
+| 🥇 **1st & 2nd place** | Web development hackathon |
+| 🏆 **Rank 88 / 8 000** | Cybersecurity competition |
+| 🏆 **Rank 56 / 10 000** | Cybersecurity competition |
 | 🥉 **3rd place** | Medical hackathon |
+| 📡 **Open-source** | Active contributor |
 
+<br/>
 
+### `> cat /certs`
 
-### Certifications
-
-![CCNA](https://img.shields.io/badge/Cisco_CCNA_1%E2%80%932-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Harvard](https://img.shields.io/badge/Harvard_CS50_Python_%26_AI-A51C30?style=for-the-badge&logo=edx&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe_Certified-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberft-pdf&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&theme=radical&hide_border=true" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberft-pdf&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Cyberft-pdf&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![CCNA](https://img.shields.io/badge/Cisco_CCNA_1–2-0a0a0a?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
+![Harvard](https://img.shields.io/badge/Harvard_CS50_Python_%26_AI-0a0a0a?style=for-the-badge&logo=edx&logoColor=A51C30)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=C11111)
 
 ---
 
-<sub>Built with passion for networks, security, and the unknown.</sub>
+### `> git log --oneline --graph`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberft-pdf&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberft-pdf&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Cyberft-pdf&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+<br/><br/>
+
+```
+> Connection established.
+> All systems nominal.
+> [ ██████████████████████ ] — standing by.
+```
 
 </div>
