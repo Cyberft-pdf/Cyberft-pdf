@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Network+Engineer;CTF+Player+%7C+Tool+Developer;Always+learning%2C+always+hacking." alt="Typing SVG" />
 </a>
 
----
 
 ### About Me
 
@@ -46,7 +45,6 @@ Alongside security, I'm passionate about cosmonautics, neural networks, and push
 | **HiProcess** | Process monitoring & analysis utility |
 | **Recognizer** | Pattern recognition / detection tool |
 
----
 
 ### Achievements
 
@@ -58,7 +56,7 @@ Alongside security, I'm passionate about cosmonautics, neural networks, and push
 | 🏆 **56 / 10 000** | Cybersecurity competition |
 | 🥉 **3rd place** | Medical hackathon |
 
----
+
 
 ### Certifications
 
