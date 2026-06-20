@@ -1,134 +1,89 @@
 <div align="center">
 
-<img src="https://github.com/Cyberft-pdf/images/blob/main/Bez%20n%C3%A1zvu-3.png" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,40:1A0035,100:001A2E&height=230&section=header&text=STEIN&fontSize=90&fontColor=C77DFF&fontAlignY=40&desc=cybersecurity+·+networks+·+deep+space&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
-```
-  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ███████╗████████╗
- ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝
- ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝█████╗     ██║   
- ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔══╝     ██║   
- ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║        ██║   
-  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝        ╚═╝   
-```
+✦ &nbsp; `cybersecurity` &nbsp; · &nbsp; `network infrastructure` &nbsp; · &nbsp; `datacenter ops` &nbsp; · &nbsp; `tool development` &nbsp; ✦
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=700&lines=Scanning+the+network...+%5B████████████+100%25%5D;Signal+detected+at+%3A%3A1+%E2%80%94+deep+space+port+443;Packet+loss%3A+0.00%25+%7C+Routing+through+dark+matter;Unauthorized+access%3F+No.+I+built+the+firewall.;ssh+cyberft%40universe.net+-p+22+...+Connected." alt="Typing SVG" />
-</a>
-
-<br/><br/>
+<br/>
 
 </div>
 
 ---
 
-<div align="center">
+I map networks the way astronomers map stars —  
+every open port is a signal from the dark,  
+every packet a transmission crossing the void.
 
-### `> whoami`
-
-</div>
-
-```
-Name    : Cyberft
-Focus   : Cybersecurity · Networks · Datacenters
-Location: Between packets and stars
-Status  : [ ONLINE ] — always scanning, always learning
-```
-
-I live at the intersection of **network infrastructure** and **offensive security**.  
-My tools run in terminals. My mind runs in packets.  
-When I'm not auditing networks or building security tools — I'm thinking about datacenters floating in orbit and neural networks trained on the unknown.
+I build tools that run in silence and watch in depth.  
+When the network sleeps, I'm still listening.
 
 ---
 
 <div align="center">
 
-### `> ls /skills`
+### ✦ &nbsp; Stack &nbsp; ✦
 
-**Languages**
+![Python](https://img.shields.io/badge/Python-1A0035?style=for-the-badge&logo=python&logoColor=C77DFF)
+![C++](https://img.shields.io/badge/C%2B%2B-001A2E?style=for-the-badge&logo=c%2B%2B&logoColor=48CAE4)
+![Go](https://img.shields.io/badge/Go-1A0035?style=for-the-badge&logo=go&logoColor=C77DFF)
+![C#](https://img.shields.io/badge/C%23-001A2E?style=for-the-badge&logo=c-sharp&logoColor=48CAE4)
+![Kotlin](https://img.shields.io/badge/Kotlin-1A0035?style=for-the-badge&logo=kotlin&logoColor=C77DFF)
 
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=FFD43B)
-![C++](https://img.shields.io/badge/C%2B%2B-0a0a0a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![C#](https://img.shields.io/badge/C%23-0a0a0a?style=for-the-badge&logo=c-sharp&logoColor=239120)
-![Go](https://img.shields.io/badge/Go-0a0a0a?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Kotlin](https://img.shields.io/badge/Kotlin-0a0a0a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=E34F26)
-
-**Security & Networks**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0a0a0a?style=for-the-badge&logo=kali-linux&logoColor=557C94)
-![Wireshark](https://img.shields.io/badge/Wireshark-0a0a0a?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0a0a0a?style=for-the-badge&logo=burp-suite&logoColor=FF6633)
-![Nmap](https://img.shields.io/badge/Nmap-0a0a0a?style=for-the-badge&logo=nmap&logoColor=6E40C9)
-![Cisco](https://img.shields.io/badge/Cisco-0a0a0a?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-</div>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-001A2E?style=for-the-badge&logo=kali-linux&logoColor=48CAE4)
+![Wireshark](https://img.shields.io/badge/Wireshark-1A0035?style=for-the-badge&logo=wireshark&logoColor=C77DFF)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-001A2E?style=for-the-badge&logo=burp-suite&logoColor=48CAE4)
+![Cisco](https://img.shields.io/badge/Cisco_CCNA-1A0035?style=for-the-badge&logo=cisco&logoColor=C77DFF)
+![Linux](https://img.shields.io/badge/Linux-001A2E?style=for-the-badge&logo=linux&logoColor=48CAE4)
 
 ---
 
-<div align="center">
+### ✦ &nbsp; Projects &nbsp; ✦
 
-### `> cat /projects`
-
-</div>
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  PROJECT          TYPE              STATUS                       │
-├─────────────────────────────────────────────────────────────────┤
-│  Steinsec OS      Security OS       [ ACTIVE ]                   │
-│  PortSkaner       Network Scanner   [ ACTIVE ]                   │
-│  NetworkViz       Topology Mapping  [ ACTIVE ]                   │
-│  HiProcess        Process Monitor   [ ACTIVE ]                   │
-│  Recognizer       Pattern Detector  [ ACTIVE ]                   │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Project | What it does |
+|:---|:---|
+| **Steinsec OS** | Custom security-hardened operating system |
+| **PortSkaner** | Network scanner & service fingerprinting |
+| **NetworkViz** | Real-time topology visualization |
+| **HiProcess** | Process monitor & behavioral analyzer |
+| **Recognizer** | Pattern & anomaly detection |
 
 ---
 
-<div align="center">
-
-### `> grep -r "achievements" /career`
+### ✦ &nbsp; Achievements &nbsp; ✦
 
 | | |
 |:---|:---|
-| 🥇 **1st & 2nd place** | Web development hackathon |
-| 🏆 **Rank 88 / 8 000** | Cybersecurity competition |
-| 🏆 **Rank 56 / 10 000** | Cybersecurity competition |
+| 🥇 **1st & 2nd place** | Web development hackathons |
+| 🏆 **#88 / 8 000** | Cybersecurity competition |
+| 🏆 **#56 / 10 000** | Cybersecurity competition |
 | 🥉 **3rd place** | Medical hackathon |
-| 📡 **Open-source** | Active contributor |
+| 📡 | Active open-source contributor |
 
 <br/>
 
-### `> cat /certs`
-
-![CCNA](https://img.shields.io/badge/Cisco_CCNA_1–2-0a0a0a?style=for-the-badge&logo=cisco&logoColor=1BA0D7)
-![Harvard](https://img.shields.io/badge/Harvard_CS50_Python_%26_AI-0a0a0a?style=for-the-badge&logo=edx&logoColor=A51C30)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0a0a0a?style=for-the-badge&logo=tryhackme&logoColor=C11111)
+![CCNA](https://img.shields.io/badge/Cisco_CCNA_1–2-1A0035?style=for-the-badge&logo=cisco&logoColor=C77DFF)
+![Harvard](https://img.shields.io/badge/Harvard_CS50_Python_%26_AI-001A2E?style=for-the-badge&logo=edx&logoColor=48CAE4)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-1A0035?style=for-the-badge&logo=tryhackme&logoColor=C77DFF)
 
 ---
 
-### `> git log --oneline --graph`
+### ✦ &nbsp; Stats &nbsp; ✦
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberft-pdf&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Cyberft-pdf&show_icons=true&hide_border=true&bg_color=0B0B1A&title_color=C77DFF&icon_color=48CAE4&text_color=E0E0E0&ring_color=C77DFF" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&hide_border=true&bg_color=0B0B1A&title_color=C77DFF&text_color=E0E0E0" height="155"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberft-pdf&theme=tokyonight&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberft-pdf&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberft-pdf&hide_border=true&background=0B0B1A&ring=C77DFF&fire=48CAE4&currStreakLabel=C77DFF&sideLabels=C77DFF&dates=888888" width="60%" />
 
-<br/><br/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cyberft-pdf&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberft-pdf&bg_color=0B0B1A&color=C77DFF&line=48CAE4&point=ffffff&hide_border=true" width="95%" />
 
-<br/><br/>
+<br/>
 
-```
-> Connection established.
-> All systems nominal.
-> [ ██████████████████████ ] — standing by.
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001A2E,60:1A0035,100:0B0B1A&height=120&section=footer" width="100%" />
 
 </div>
