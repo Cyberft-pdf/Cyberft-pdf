@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B1A,40:1A0035,100:001A2E&height=230&section=header&text=STEIN&fontSize=90&fontColor=C77DFF&fontAlignY=40&desc=cybersecurity+·+networks+·+deep+space&descSize=15&descAlignY=62&animation=fadeIn" width="100%" />
 
 <br/>
 
