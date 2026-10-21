@@ -12,7 +12,7 @@
 
 <div align="center">
 
-I map networks the way astronomers map stars —  
+I map networks the way astronomers map stars 
 every open port is a signal from the dark,  
 every packet a transmission crossing the void.
 
